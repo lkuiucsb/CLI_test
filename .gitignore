@@ -1,0 +1,8 @@
+# Generated data and plots
+*.csv
+*.png
+
+# R-specific ignores
+.Rhistory
+.RData
+.Rproj.user
